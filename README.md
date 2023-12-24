@@ -1,16 +1,16 @@
-# SkyLog
+# AvLog Pilot Logbook
 Pilot Logbook
 
 
 PRIVACY POLICY
 Last updated December 23, 2023
 
-This privacy notice for SkyLog ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
-* Download and use our mobile application (SkyLog), or any other application of ours that links to this privacy notice
+This privacy notice for AvLog ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
+* Download and use our mobile application (AvLog), or any other application of ours that links to this privacy notice
 
 * Engage with us in other related ways, including any sales, marketing, or events
 
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at skylogaviation@gmail.com.
+Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at AvLogaviation@gmail.com.
 
 SUMMARY OF KEY POINTS
 This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents (#toc)  below to find the section you are looking for.
@@ -171,7 +171,7 @@ In Short: We aim to protect your personal information through a system of organi
 We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
 8. DO WE COLLECT INFORMATION FROM MINORS?
 In Short: We do not knowingly collect data from or market to children under 18 years of age.
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at skylogaviation@gmail.com.
+We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at AvLogaviation@gmail.com.
 9. WHAT ARE YOUR PRIVACY RIGHTS?
 In Short: In some regions, such as the European Economic Area (EEA), United Kingdom (UK), Switzerland, and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
 In some regions (like the EEA, UK, Switzerland, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; (iv) if applicable, to data portability; and (v) not to be subject to automated decision-making. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE? (#contact) " below.
@@ -187,7 +187,7 @@ If you would at any time like to review or change the information in your accoun
 * Log in to your account settings and update your user account.
 
 Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
-If you have questions or comments about your privacy rights, you may email us at skylogaviation@gmail.com.
+If you have questions or comments about your privacy rights, you may email us at AvLogaviation@gmail.com.
 10. CONTROLS FOR DO-NOT-TRACK FEATURES
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
 11. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
@@ -296,7 +296,7 @@ Other privacy rights
 
 * You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
 
-To exercise these rights, you can contact us by submitting a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) , by email at skylogaviation@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
+To exercise these rights, you can contact us by submitting a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) , by email at AvLogaviation@gmail.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
 Colorado Residents
 This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 * Right to be informed whether or not we are processing your personal data
@@ -311,8 +311,8 @@ This section applies only to Colorado residents. Under the Colorado Privacy Act 
 
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email skylogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at skylogaviation@gmail.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+To submit a request to exercise these rights described above, please email AvLogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at AvLogaviation@gmail.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 Connecticut Residents
 This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 * Right to be informed whether or not we are processing your personal data
@@ -327,8 +327,8 @@ This section applies only to Connecticut residents. Under the Connecticut Data P
 
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
-To submit a request to exercise these rights described above, please email skylogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at skylogaviation@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
+To submit a request to exercise these rights described above, please email AvLogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
+If we decline to take action regarding your request and you wish to appeal our decision, please email us at AvLogaviation@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
 Utah Residents
 This section applies only to Utah residents. Under the Utah Consumer Privacy Act (UCPA), you have the rights listed below. However, these rights are not absolute, and in certain cases, we may decline your request as permitted by law.
 * Right to be informed whether or not we are processing your personal data
@@ -341,7 +341,7 @@ This section applies only to Utah residents. Under the Utah Consumer Privacy Act
 
 * Right to opt out of the processing of your personal data if it is used for targeted advertising or the sale of personal data
 
-To submit a request to exercise these rights described above, please email skylogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
+To submit a request to exercise these rights described above, please email AvLogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
 Virginia Residents
 Under the Virginia Consumer Data Protection Act (VCDPA):
 "Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.
@@ -362,19 +362,19 @@ Your rights with respect to your personal data
 * Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
 
 Exercise your rights provided under the Virginia VCDPA
-You may contact us by email at skylogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
+You may contact us by email at AvLogaviation@gmail.com or submit a data subject access request (https://app.termly.io/notify/72bdc741-e1bb-486a-9010-47d574db1b15) .
 If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
 Verification process
 We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.
 Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
 Right to appeal
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at skylogaviation@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the Attorney General to submit a complaint (https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint) .
+If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at AvLogaviation@gmail.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal is denied, you may contact the Attorney General to submit a complaint (https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint) .
 12. DO WE MAKE UPDATES TO THIS NOTICE?
 In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 13. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-If you have questions or comments about this notice, you may email us at skylogaviation@gmail.com or contact us by post at:
-SkyLog
+If you have questions or comments about this notice, you may email us at AvLogaviation@gmail.com or contact us by post at:
+AvLog
 __________
 __________
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
